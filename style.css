@@ -12,9 +12,10 @@ a{
     color: black;
 }
 .dig{
-    border:solid 3px #8B4513;
+    border:solid 3px #A9A9A9;
 }
 .link-nav{
     border:solid 3px #8B4513;
     margin:5px;
+    padding:2px;
 }
