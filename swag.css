@@ -1,0 +1,59 @@
+html{
+  background-color: #9370DB;
+  font-family: SEGOE PRINT;
+}
+.tet {
+  color: white;
+}
+.post{
+  background-color: #E6E6FA;
+  padding-bottom: 5px;
+}
+ footer {
+  padding: 10px;
+  color: #fff;
+}
+.df{
+  margin: 10px 10px 10px 10px;
+}
+.ff{
+    margin: 5px 10px 10px 10px;
+}
+footer{
+  background-color: black;
+  margin: 20px 0px 0px 0px;
+}
+.hhh{
+  color:	#191970;
+  text-decoration: none;
+}
+.dm{
+      margin: 5px 10px 10px 10px;
+}
+.comment{
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  margin-top: 10px;
+  margin: 5px 10px 10px 10px;
+}
+#sub-comment{
+  margin-left: 50px;
+      margin: 5px 10px 10px 10px;
+}
+.author{
+      margin: 5px 10px 10px 10px;
+}
+
+.date{
+color: #f08811;
+margin-top: 0px;
+margin-bottom: 10px;
+      margin: 5px 10px 10px 10px;
+}
+.post-info{
+  margin: 5px 10px 10px 10px;
+}
+.y{
+  text-decoration: underline;
+}
